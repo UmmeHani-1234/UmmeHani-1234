@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummehani-1234&label=Profile%20views&color=0e75b6&style=flat" alt="ummehani-1234" /> </p>
 
-- 🔭 I’m currently working on **DiabeticReverser**
+-
 
 - 🌱 I’m currently learning **numpy,pandas**
 
