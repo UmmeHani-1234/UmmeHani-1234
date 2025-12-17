@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummehani-1234&label=Profile%20views&color=0e75b6&style=flat" alt="ummehani-1234" /> </p>
 
--
+
 
 - 🌱 I’m currently learning **numpy,pandas**
 
-- 💬 Ask me about **html,css,JS,C++,python**
+- 💬 Ask me about **html,css,JS,C++,python,react.js,tailwindCss**
 
 - 📫 How to reach me **ummehanishaikh056@gmail.com**
 
