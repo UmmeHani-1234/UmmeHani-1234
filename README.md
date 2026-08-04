@@ -1,4 +1,3 @@
-type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+with+Python+%26+JavaScript;MERN+Stack+Developer;Turning+ideas+into+code" alt="Typing SVG" />
