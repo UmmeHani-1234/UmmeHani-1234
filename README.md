@@ -10,7 +10,7 @@
 
 <br/>
 
-<h2 align="center">🙋 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/👋_Hey,_I'm-Umme%20Hani-58A6FF?style=for-the-badge&labelColor=0f2027" alt="intro badge"/>
