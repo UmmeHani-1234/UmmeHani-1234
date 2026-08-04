@@ -10,9 +10,19 @@
 
 <br/>
 
-## 🙋 About Me
+<h2 align="center">🙋 About Me</h2>
 
-Hey, I'm Umme Hani 👋 I love building projects and I'm always working hard to learn and grow as a developer.
+<p align="center">
+  <img src="https://img.shields.io/badge/👋_Hey,_I'm-Umme%20Hani-58A6FF?style=for-the-badge&labelColor=0f2027" alt="intro badge"/>
+</p>
+
+<p align="center">
+  <em>💻 I love building projects &nbsp;•&nbsp; 🔥 always working hard &nbsp;•&nbsp; 🌱 constantly learning</em>
+</p>
+
+<blockquote align="center">
+  <p align="center">Turning ideas into code, one project at a time.</p>
+</blockquote>
 
 <br/>
 
