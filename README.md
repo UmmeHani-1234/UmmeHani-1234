@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+with+Python+%26+JavaScript;MERN+Stack+Developer;Turning+ideas+into+code" alt="Typing SVG" />
 </p>
@@ -11,6 +10,12 @@
 
 <br/>
 
+## 🙋 About Me
+
+Hey, I'm Umme Hani 👋 I love building projects and I'm always working hard to learn and grow as a developer.
+
+<br/>
+
 ## 🧠 Languages & Tech
 
 <p align="center">
@@ -18,7 +23,5 @@
 </p>
 
 <br/>
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" />
